@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title> 窩ㄉ日記</title><link>https://cooming.github.io</link><description> 窩要成為工程師！(大聲) 不知道為啥一個法律仔，踏上了成為工程師的旅途，可能是因為他考不上國考(哭阿</description><copyright> 窩ㄉ日記</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.discordapp.com/emojis/1226474354246684672.webp</url><title>avatar</title><link>https://cooming.github.io</link></image><lastBuildDate>Wed, 21 Aug 2024 18:37:40 +0000</lastBuildDate><managingEditor> 窩ㄉ日記</managingEditor><ttl>60</ttl><webMaster> 窩ㄉ日記</webMaster><item><title>2024-08-21 日記2</title><link>https://cooming.github.io/post/2024-08-21%20-ri-ji-2.html</link><guid isPermaLink="true">https://cooming.github.io/post/2024-08-21%20-ri-ji-2.html</guid><pubDate>Wed, 21 Aug 2024 18:37:09 +0000</pubDate></item><item><title>2024-08-21 日記</title><link>https://cooming.github.io/post/2024-08-21%20-ri-ji.html</link><description>好耶&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title> 窩ㄉ日記</title><link>https://cooming.github.io</link><description> 窩要成為工程師！(大聲) 不知道為啥一個法律仔，踏上了成為工程師的旅途，可能是因為他考不上國考(哭阿</description><copyright> 窩ㄉ日記</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.discordapp.com/emojis/1226474354246684672.webp</url><title>avatar</title><link>https://cooming.github.io</link></image><lastBuildDate>Wed, 21 Aug 2024 18:45:15 +0000</lastBuildDate><managingEditor> 窩ㄉ日記</managingEditor><ttl>60</ttl><webMaster> 窩ㄉ日記</webMaster><item><title>2024-08-21 日記2</title><link>https://cooming.github.io/post/2024-08-21%20-ri-ji-2.html</link><description>補記&#13;
+現在兩點了，還在沉思要不要補php的進度，想想還是算了，好累喔&#13;
+RAM跟硬碟收到貨了，硬碟連接線還沒有到無法測試，RAM已經插在筆電上了&#13;
+本來想幫舊筆電刷ChomeOS的，結果Rufus每次刷隨身碟都失敗，可能是還原檔版本太老了相容性出問題&#13;
+現在舊筆電上裝著Ubuntu Mate，本來基本軟體都架好了&#13;
+突然看到KDE的GUI好香喔，於是又搞了Kubuntu的iso下來&#13;
+可是室友已經睡了，怕BIOS的開機音吵醒他，只能明天再用了&#13;
+好耶，linux入門第一天(?&#13;
+&#13;
+(然後，突然又三心二意發現檢察官助理只要考刑法還可以領四萬四，心動動ㄌ，明年也去考考看好了。</description><guid isPermaLink="true">https://cooming.github.io/post/2024-08-21%20-ri-ji-2.html</guid><pubDate>Wed, 21 Aug 2024 18:37:09 +0000</pubDate></item><item><title>2024-08-21 日記</title><link>https://cooming.github.io/post/2024-08-21%20-ri-ji.html</link><description>好耶&#13;
 第一篇日記&#13;
 &#13;
 距離職訓結束剩下一個月左右&#13;
