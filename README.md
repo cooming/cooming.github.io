@@ -1,4 +1,4 @@
-# Blog Title :link: https://cooming.github.io 
+# 窩ㄉ日記 :link: https://cooming.github.io 
 ### :page_facing_up: [2](https://cooming.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 241 
