@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title> 窩ㄉ日記</title><link>https://cooming.github.io</link><description> 窩要成為工程師！(大聲) 不知道為啥一個法律仔，踏上了成為工程師的旅途，可能是因為他考不上國考(哭阿</description><copyright> 窩ㄉ日記</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.discordapp.com/emojis/1226474354246684672.webp</url><title>avatar</title><link>https://cooming.github.io</link></image><lastBuildDate>Thu, 22 Aug 2024 06:48:35 +0000</lastBuildDate><managingEditor> 窩ㄉ日記</managingEditor><ttl>60</ttl><webMaster> 窩ㄉ日記</webMaster><item><title>2024-08-21 日記2</title><link>https://cooming.github.io/post/2024-08-21%20-ri-ji-2.html</link><description>補記&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title> 窩ㄉ日記</title><link>https://cooming.github.io</link><description> 窩要成為工程師！(大聲) 不知道為啥一個法律仔，踏上了成為工程師的旅途，可能是因為他考不上國考(哭阿</description><copyright> 窩ㄉ日記</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.discordapp.com/emojis/1226474354246684672.webp</url><title>avatar</title><link>https://cooming.github.io</link></image><lastBuildDate>Fri, 23 Aug 2024 02:28:44 +0000</lastBuildDate><managingEditor> 窩ㄉ日記</managingEditor><ttl>60</ttl><webMaster> 窩ㄉ日記</webMaster><item><title>2024-08-22 日記補記</title><link>https://cooming.github.io/post/2024-08-22%20-ri-ji-bu-ji.html</link><description>昨天硬碟線到了&#13;
+三顆硬碟都能用&#13;
+不過都不到2000小時的使用時數(懷疑被洗過&#13;
+&#13;
+然後昨天傳資料傳過頭了&#13;
+今天早上鬧鐘又沒響QQ&#13;
+哭阿&#13;
+&#13;
+之後要開始正式專題了&#13;
+每個星期四要會報進度&#13;
+&#13;
+慘&#13;
+&#13;
+![317986460_1513166819183461_45861429](https://github.com/user-attachments/assets/3259260d-cc07-4551-a47f-cf317001c38a)&#13;
+。</description><guid isPermaLink="true">https://cooming.github.io/post/2024-08-22%20-ri-ji-bu-ji.html</guid><pubDate>Fri, 23 Aug 2024 02:28:06 +0000</pubDate></item><item><title>2024-08-21 日記2</title><link>https://cooming.github.io/post/2024-08-21%20-ri-ji-2.html</link><description>補記&#13;
 現在兩點了，還在沉思要不要補php的進度，想想還是算了，好累喔&#13;
 RAM跟硬碟收到貨了，硬碟連接線還沒有到無法測試，RAM已經插在筆電上了&#13;
 本來想幫舊筆電刷ChomeOS的，結果Rufus每次刷隨身碟都失敗，可能是還原檔版本太老了相容性出問題&#13;
